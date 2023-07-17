@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="5301675d-bae4-45ce-afe0-12131e65f8d6" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Demo Bird/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Demo Bird/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Movement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Movement.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +19,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://D:/unity/project/Demo Bird/Assets/Scenes/SampleScene.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/unity/project/Demo Bird/Assets/Scenes/SampleScene.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/unity/project/Demo Bird/ProjectSettings/QualitySettings.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PipMiddleScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2Rx9v0eBppzhFacCdYz6ibBO2Bt" />
@@ -31,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -99,6 +99,11 @@
       <updated>1688181093747</updated>
       <workItem from="1688181096210" duration="1520000" />
       <workItem from="1688184465291" duration="92000" />
+      <workItem from="1688184673850" duration="588000" />
+      <workItem from="1688261979678" duration="2410000" />
+      <workItem from="1688304554908" duration="690000" />
+      <workItem from="1688305461610" duration="948000" />
+      <workItem from="1689587796942" duration="2417000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始化">
       <option name="closed" value="true" />
@@ -116,7 +121,23 @@
       <option name="project" value="LOCAL" />
       <updated>1688184507276</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="测试修改">
+      <option name="closed" value="true" />
+      <created>1688184715115</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688184715115</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ignore修改.1">
+      <option name="closed" value="true" />
+      <created>1688185161343</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688185161343</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +173,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="项目初始化" />
     <MESSAGE value="ignore修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="ignore修改" />
+    <MESSAGE value="测试修改" />
+    <MESSAGE value="ignore修改.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ignore修改.1" />
   </component>
 </project>
