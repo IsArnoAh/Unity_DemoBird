@@ -24,7 +24,7 @@ public class PipMiddleScript : MonoBehaviour
     {
         if (other.gameObject.layer==3)
         {
-            logic.addScore();
+            logic.AddScore();
         }
     }
     

@@ -13,15 +13,22 @@ public class LogicScript : MonoBehaviour
     
     public Text scoreText;
 
-    public void addScore()
+    public GameObject gameOverScreen;
+
+    public void AddScore()
     {
         playerScore = playerScore + 1;
         scoreText.text = playerScore.ToString();
     }
 
-    public void restartGame()
+    public void RestartGame()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
+    public void GameOver()
+    {
+        gameOverScreen.SetActive(true);
     }
 }
 

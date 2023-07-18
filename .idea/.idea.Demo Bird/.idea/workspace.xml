@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5301675d-bae4-45ce-afe0-12131e65f8d6" name="更改" comment="">
+    <list default="true" id="5301675d-bae4-45ce-afe0-12131e65f8d6" name="更改" comment="游戏结束逻辑添加">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Demo Bird/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Demo Bird/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Asset/Pipe.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset/Pipe.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LogicScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LogicScript.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Movement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Movement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PipMiddleScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PipMiddleScript.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
@@ -19,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://D:/unity/project/Demo Bird/Assets/LogicScript.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PipMiddleScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://D:/unity/project/Demo Bird/Assets/Scenes/SampleScene.unity" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2Rx9v0eBppzhFacCdYz6ibBO2Bt" />
@@ -103,7 +108,8 @@
       <workItem from="1688261979678" duration="2410000" />
       <workItem from="1688304554908" duration="690000" />
       <workItem from="1688305461610" duration="948000" />
-      <workItem from="1689587796942" duration="2417000" />
+      <workItem from="1689587796942" duration="2776000" />
+      <workItem from="1689682788083" duration="3958000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始化">
       <option name="closed" value="true" />
@@ -137,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688185161343</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="添加ui">
+      <option name="closed" value="true" />
+      <created>1689592290576</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689592290576</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +189,8 @@
     <MESSAGE value="ignore修改" />
     <MESSAGE value="测试修改" />
     <MESSAGE value="ignore修改.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="ignore修改.1" />
+    <MESSAGE value="添加ui" />
+    <MESSAGE value="游戏结束逻辑添加" />
+    <option name="LAST_COMMIT_MESSAGE" value="游戏结束逻辑添加" />
   </component>
 </project>
