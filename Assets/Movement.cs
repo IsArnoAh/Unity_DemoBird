@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 using UnityEngine;
 
 public class Movement : MonoBehaviour
@@ -25,6 +26,11 @@ public class Movement : MonoBehaviour
         {
             AudioJump.Play();
             myRigidbody.velocity=Vector2.up*flyHeight;
+        }
+
+        if (Input.GetKeyDown(KeyCode.Escape)==true)
+        {
+            SceneManager.LoadScene("UI");
         }
 
         if (transform.position.y<=-9)

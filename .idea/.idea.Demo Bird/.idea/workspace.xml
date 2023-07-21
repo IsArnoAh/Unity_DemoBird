@@ -9,6 +9,8 @@
       <change beforePath="$PROJECT_DIR$/Assets/LogicScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LogicScript.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Movement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Movement.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,7 @@
     <setting file="mock://D:/unity/project/Demo Bird/Assets/LogicScript.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PipMiddleScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock://D:/unity/project/Demo Bird/Assets/Scenes/SampleScene.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/unity/project/Demo Bird/ProjectSettings/TagManager.asset" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2Rx9v0eBppzhFacCdYz6ibBO2Bt" />
@@ -58,6 +61,14 @@
       <option name="EXE_PATH" value="D:\unity\editor\2021.3.19f1c1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath &quot;D:\unity\project\Demo Bird&quot; -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="D:\unity\project\Demo Bird" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="独立播放器" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../package/Demo Bird.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\unity\project\package" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <method v="2" />
@@ -107,7 +118,8 @@
       <workItem from="1688305461610" duration="948000" />
       <workItem from="1689587796942" duration="2776000" />
       <workItem from="1689682788083" duration="3973000" />
-      <workItem from="1689903428959" duration="2745000" />
+      <workItem from="1689903428959" duration="5723000" />
+      <workItem from="1689918716934" duration="832000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始化">
       <option name="closed" value="true" />
@@ -157,7 +169,23 @@
       <option name="project" value="LOCAL" />
       <updated>1689687077810</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="粒子云，和部分音效">
+      <option name="closed" value="true" />
+      <created>1689913719086</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689913719086</updated>
+    </task>
+    <task id="LOCAL-00008" summary="补全配置">
+      <option name="closed" value="true" />
+      <created>1689913738483</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689913738483</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +225,8 @@
     <MESSAGE value="ignore修改.1" />
     <MESSAGE value="添加ui" />
     <MESSAGE value="游戏结束逻辑添加" />
-    <option name="LAST_COMMIT_MESSAGE" value="游戏结束逻辑添加" />
+    <MESSAGE value="粒子云，和部分音效" />
+    <MESSAGE value="补全配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="补全配置" />
   </component>
 </project>

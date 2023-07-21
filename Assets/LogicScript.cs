@@ -1,10 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Net.Mime;
+#if UNITY_EDITOR
 using UnityEditor.Experimental.GraphView;
-using UnityEngine;
+#endif
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityEngine;
+
 
 public class LogicScript : MonoBehaviour
 {
