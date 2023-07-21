@@ -15,8 +15,12 @@ public class LogicScript : MonoBehaviour
 
     public GameObject gameOverScreen;
 
+    public AudioSource AudioSource;
+
+    
     public void AddScore()
     {
+        AudioSource.Play();
         playerScore = playerScore + 1;
         scoreText.text = playerScore.ToString();
     }

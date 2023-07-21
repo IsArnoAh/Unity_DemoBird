@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5301675d-bae4-45ce-afe0-12131e65f8d6" name="更改" comment="游戏结束逻辑添加">
+    <list default="true" id="5301675d-bae4-45ce-afe0-12131e65f8d6" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Demo Bird/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Demo Bird/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asset/Pipe.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset/Pipe.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/LogicScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LogicScript.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Movement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Movement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PipMiddleScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PipMiddleScript.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +106,8 @@
       <workItem from="1688304554908" duration="690000" />
       <workItem from="1688305461610" duration="948000" />
       <workItem from="1689587796942" duration="2776000" />
-      <workItem from="1689682788083" duration="3958000" />
+      <workItem from="1689682788083" duration="3973000" />
+      <workItem from="1689903428959" duration="2745000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始化">
       <option name="closed" value="true" />
@@ -151,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689592290576</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="游戏结束逻辑添加">
+      <option name="closed" value="true" />
+      <created>1689687077810</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689687077810</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

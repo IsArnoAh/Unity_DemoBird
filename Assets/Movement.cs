@@ -10,6 +10,7 @@ public class Movement : MonoBehaviour
     public float flyHeight;
     public bool alive;
     public LogicScript logic;
+    public AudioSource AudioJump;
     void Start()
     {
         alive = true;
@@ -22,7 +23,14 @@ public class Movement : MonoBehaviour
         
         if (Input.GetKeyDown(KeyCode.Space) == true && alive==true)
         {
+            AudioJump.Play();
             myRigidbody.velocity=Vector2.up*flyHeight;
+        }
+
+        if (transform.position.y<=-9)
+        {
+            logic.GameOver();
+            alive = false;
         }
 
         
